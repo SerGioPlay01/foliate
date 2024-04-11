@@ -108,15 +108,15 @@ msgstr "У вас нет никаких аннотаций к этой книг�
 #: src/annotations.js:648
 #, javascript-format
 msgid "Annotations for “%s”"
-msgstr "Примечания для «%s»"
+msgstr "Аннотации для «%s»"
 
 #: src/annotations.js:649
 #, javascript-format
 msgid "%d Annotation"
 msgid_plural "%d Annotations"
-msgstr[0] "%d примечание"
-msgstr[1] "%d примечания"
-msgstr[2] "%d примечаний"
+msgstr[0] "%d аннотации"
+msgstr[1] "%d аннотации"
+msgstr[2] "%d аннотации"
 
 #: src/app.js:95 src/book-viewer.js:30
 msgid "Close"
@@ -335,7 +335,7 @@ msgstr "‘%s’"
 #: src/book-viewer.js:903
 #, javascript-format
 msgid "Image from “%s”"
-msgstr "Изображение с «%s»"
+msgstr "Изображение из «%s»"
 
 #: src/book-viewer.js:903
 msgid "Image"
@@ -505,7 +505,7 @@ msgstr ""
 
 #: src/library.js:922
 msgid "URL"
-msgstr "URL"
+msgstr "Ссылка URL"
 
 #. Translators: Do NOT translate! The is the application name!
 #: src/main.js:28 data/com.github.johnfactotum.Foliate.desktop.in:4
@@ -588,11 +588,11 @@ msgstr "Небо"
 
 #: src/themes.js:39
 msgid "Solarized"
-msgstr "Solarized"
+msgstr "Соляризованный"
 
 #: src/themes.js:44
 msgid "Gruvbox"
-msgstr "Gruvbox"
+msgstr "Грувбокс"
 
 #: src/themes.js:49
 msgid "Nord"
@@ -650,7 +650,7 @@ msgstr "Импортировать примечания…"
 
 #: src/ui/book-viewer.ui:37 src/ui/library.ui:42
 msgid "About Foliate"
-msgstr "О Foliate"
+msgstr "О приложении"
 
 #: src/ui/book-viewer.ui:45
 msgid "All Sections"
@@ -816,15 +816,15 @@ msgstr ""
 
 #: src/ui/export-dialog.ui:33
 msgid "JSON"
-msgstr "JSON"
+msgstr "Экспортировать в JSON"
 
 #: src/ui/export-dialog.ui:34
 msgid "HTML"
-msgstr "HTML"
+msgstr "Экспортировать в HTML"
 
 #: src/ui/export-dialog.ui:35
 msgid "Markdown"
-msgstr "Markdown"
+msgstr "Экспортировать в Markdown"
 
 #: src/ui/export-dialog.ui:36
 msgid "Org Mode"
@@ -1107,7 +1107,7 @@ msgstr "Читалка электронных книг"
 #. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
 #: data/com.github.johnfactotum.Foliate.desktop.in:14
 msgid "Ebook;Book;EPUB;Viewer;Reader;"
-msgstr "Книга;Книги;EPUB;Просмотрщик;Читалка;"
+msgstr "Книга;Книги;Электронная библиотека;Просмотрщик;Читалка;"
 
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:10
 msgid ""
@@ -1162,11 +1162,11 @@ msgstr "Книга"
 
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:31
 msgid "EPUB"
-msgstr "EPUB"
+msgstr "ЭЛЕКТРОННАЯ БИБЛИОТЕКА"
 
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:32
 msgid "Ebook"
-msgstr "E-book"
+msgstr "Электронная книга"
 
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:33
 msgid "Reader"
